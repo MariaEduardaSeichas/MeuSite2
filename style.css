@@ -20,6 +20,10 @@
     background-color: #B0E0E6;
 }
 .segunda{
+    font-size: 30px;
     font-style: inherit;
-
+    width: 50%; 
+    height: 60%; 
+    float: right;
+    top: 120px;
 }
