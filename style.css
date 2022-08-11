@@ -21,12 +21,12 @@
 }
 .segunda{
     font-size: 20px;
-    font-style: inherit;
+    font-style: italic;
     width: 50%; 
     height: 60%; 
     float: left;
     top: 70px;
-    color:#3720bd;
+    color:#2F4F4F;
 }
 .tit{
     font-size: 30px;
